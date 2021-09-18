@@ -3,7 +3,7 @@
   <title>gal</title>
   <head>
     <body bgcolor="Aquamarine"> 
-      <h1><marquee direction="left"><p style="color:LavenderBlush;">ola pero ola de saludo no de marm&lt;:</p></marquee></h1>
+      <h1><marquee direction="left"><p style="color:Skyblue;">ola pero ola de saludo no de marm&lt;:</p></marquee></h1>
       <h2>buenoo esta pagina sera un poco mas cortita que la anterior
       <h2>buemno gar ,esta es otra pagina ,ia viste como aparecio el "ola"? ,quedo facherito no?xd,recien lo aprendi LJKHSAFJA , buemno , hice esta pagina porque la verdad es que es feo estar asi , saber que todo esta mal y dejar que esto acabe tan simple</h2>
         <h2>sabemos todo lo que paso y aunque te pregunté si ya estaba todo bien, me dijiste :"si" y que tenias clase ,sabes, no me habias dicho nunca eso de : hablamos luego tengo clase, la verdad si se sintio feo pero sabes tmb entendia y sabia porque era</h2>
