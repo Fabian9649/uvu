@@ -10,4 +10,6 @@
      <h2>lo que quiero con todo esto gal , es que volvamos a ser los panas de antes que aunque no hablaran mucho,sabia que estabas ahi y que podia decirte cualquier cosa xd o cuando jugabamos sabes o tmb acompañartee cuando hacias tus trabajo erann uff , poner canciones era super chvr y aunque io solo ponia canciones me la pasaba gudd sabes(el cariño no se va de un dia a otro)</h2>
         <h2>bueno ,mmm pss ,al final la decision la tomas iu gar, *pera su respuesta*  xd</h2>
         <img src="https://codigoesports.com/wp-content/uploads/2019/05/meperdonas.jpg">
+        <img src="https://static.wikia.nocookie.net/doki-la-serie/images/5/56/DokiSerie.png/revision/latest/scale-to-width-down/310?cb=20200331184211&path-prefix=es">
+        *perando guit doki*
         
