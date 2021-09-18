@@ -9,5 +9,5 @@
         <h2>sabemos todo lo que paso y aunque te pregunté si ya estaba todo bien, me dijiste :"si" y que tenias clase ,sabes, no me habias dicho nunca eso de : hablamos luego tengo clase, la verdad si se sintio feo pero sabes tmb entendia y sabia porque era</h2>
      <h2>lo que quiero con todo esto gal , es que volvamos a ser los panas de antes que aunque no hablaran mucho,sabia que estabas ahi y que podia decirte cualquier cosa xd o cuando jugabamos sabes o tmb acompañartee cuando hacias tus trabajo erann uff , poner canciones era super chvr y aunque io solo ponia canciones me la pasaba gudd sabes</h2>
         <h2>bueno ,mmm pss ,al final la decision la tomas iu gar, *espera a su respuesta*  xd</h2>
-        <img src:"https://codigoesports.com/wp-content/uploads/2019/05/meperdonas.jpg">
+        <img src="https://codigoesports.com/wp-content/uploads/2019/05/meperdonas.jpg">
         
