@@ -3,4 +3,4 @@
   <title>gal</title>
   <head>
     <body bgcolor="Aquamarine"> 
-      <h1 style="background-color:Pink;">Ola pero ola desaludo no de marm</h1>
+      <h1><marquee direction="left"><p style="color:green;">ola pero ola de saludo no de marm&lt;:</p></marquee></h1>
