@@ -11,7 +11,7 @@
         <h2>bueno ,mmm pss ,al final la decision la tomas iu gar, *pera su respuesta*  xd</h2>
         <img src="https://codigoesports.com/wp-content/uploads/2019/05/meperdonas.jpg">
         <h2>si me dices que no , voy a quedar asi XD: 
-        <img src="https://pbs.twimg.com/media/ETKpqrAXsAAQ5HB?format=jpg&name=small">
+        <br><img src="https://pbs.twimg.com/media/ETKpqrAXsAAQ5HB?format=jpg&name=small">
           
         
         
