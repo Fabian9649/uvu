@@ -13,6 +13,7 @@
         <img src="https://codigoesports.com/wp-content/uploads/2019/05/meperdonas.jpg">
         <h2>si me dices que n0oO , voy a quedar asi , pero tmb entiendo JFHKSAF: 
         <br><img src="https://pbs.twimg.com/media/ETKpqrAXsAAQ5HB?format=jpg&name=small">
-          
+          <img src="https://s11.favim.com/orig/7/763/7630/76308/music-lyrics-ariana-grande-Favim.com-7630862.jpg">
+          <h2>bueno ia me expresé ci?, me exprese en todo el mensaje que te ennvie por whats,ia dije todo lo que sentia , perdon por decirlo tan tarde pero tenia miedo tmb JAHSFJKA</h2>
         
         
