@@ -19,5 +19,5 @@
           
         <img src="https://scontent.flim18-1.fna.fbcdn.net/v/t1.18169-9/32448_126030627425204_4659529_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3ThygHbiAF0AX8zKc3O&_nc_ht=scontent.flim18-1.fna&oh=d36d94f780573695172ec50688aafd6c&oe=6175D070">  
           <h3>SentAaaAdo deBajO0O0 de uN, aRb0O0l deBaaAjO DE UN arBO0l deManGo</h3>
-          <h2>no prestes atencion a esoXDD , solo mientras hacia esto me acorde de doki uwu</h2>
+          <h2>no le desatencion a estoXDD , solo mientras lo hacia me acorde de doki uwu</h2>
         
